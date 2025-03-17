@@ -1,0 +1,29 @@
+{
+  "sentiments": [
+    {
+      "id": "1",
+      "review": "This movie is amazing!",
+      "sentiment": "Positive"
+    },
+    {
+      "id": "2",
+      "review": "It was a boring movie.",
+      "sentiment": "Negative"
+    },
+    {
+      "id": "651a",
+      "review": "good movie",
+      "sentiment": "Positive"
+    },
+    {
+      "id": "7de6",
+      "review": "bad movie",
+      "sentiment": "Negative"
+    },
+    {
+      "id": "1a8f",
+      "review": "average movie",
+      "sentiment": "Positive"
+    }
+  ]
+}
