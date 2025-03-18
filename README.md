@@ -1,12 +1,35 @@
-# React + Vite
+🎬 Movie Review Sentiment Analysis
+🚀 A web application that performs sentiment analysis on movie reviews. Users can input a movie review, and the system determines whether the sentiment is Positive, Negative, or Neutral.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Tech Stack
+✅ Frontend: React + Vite, Tailwind CSS
+✅ Backend: Node.js, Express (To be integrated)
+✅ Database: MongoDB (To be integrated)
+✅ Machine Learning: NLP Model for Sentiment Analysis
 
-Currently, two official plugins are available:
+🌟 Features
+🎭 Analyze Movie Reviews – Get real-time sentiment analysis (Positive, Negative, Neutral).
+📊 Dynamic UI – Clean and responsive design using Tailwind CSS.
+📡 Backend API Integration – Fetch sentiment results from the ML model (To be connected).
+🚀 Fast & Optimized – Built with React + Vite for better performance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 How to Run the Project?
 
-## Expanding the ESLint configuration
+1️⃣ Clone the repository
+git clone https://github.com/PalaniRahulDravid/sentiment-analysis.git
+cd repo-name
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run the development server
+npm run dev
+
+📌 Upcoming Features
+🔹 Backend Connection – Integrating Node.js & Express API
+🔹 More Sentiment Categories – Adding finer classification
+🔹 Dark Mode UI – User preference-based theme
+
+💡 Contributors: 🚀
+👨‍💻 Frontend Developer: Rahul Dravid
+👨‍💻 Backend Developers: Siva Durga Prasad
