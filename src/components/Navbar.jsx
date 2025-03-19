@@ -1,8 +1,12 @@
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 function Navbar() {
+  const location = useLocation();
+
   return (
-    <nav className="bg-black p-4 shadow-lg">
+    <nav className={`p-4 shadow-lg ${
+        location.pathname === "/" ? "bg-black" : "bg-gradient-to-r from-blue-700 to-purple-600"
+      }`}>
       <ul className="flex justify-center space-x-6">
         <li>
           <Link 

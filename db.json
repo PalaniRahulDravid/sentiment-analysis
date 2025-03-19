@@ -23,7 +23,82 @@
     {
       "id": "1a8f",
       "review": "average movie",
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "3b9c",
+      "review": "Fantastic storyline and brilliant acting!",
       "sentiment": "Positive"
+    },
+    {
+      "id": "4d21",
+      "review": "Too slow and predictable.",
+      "sentiment": "Negative"
+    },
+    {
+      "id": "5f73",
+      "review": "I loved the cinematography!",
+      "sentiment": "Positive"
+    },
+    {
+      "id": "6a2e",
+      "review": "The script was weak and unimpressive.",
+      "sentiment": "Negative"
+    },
+    {
+      "id": "7b8d",
+      "review": "A masterpiece! Worth watching again.",
+      "sentiment": "Positive"
+    },
+    {
+      "id": "8e4f",
+      "review": "Terrible experience, wouldn't recommend.",
+      "sentiment": "Negative"
+    },
+    {
+      "id": "9c5a",
+      "review": "An emotional rollercoaster, truly heartwarming.",
+      "sentiment": "Positive"
+    },
+    {
+      "id": "10ab",
+      "review": "Not my type of movie, felt dull.",
+      "sentiment": "Negative"
+    },
+    {
+      "id": "11f8",
+      "review": "Well-directed and engaging plot.",
+      "sentiment": "Positive"
+    },
+    {
+      "id": "12d7",
+      "review": "Poor acting and weak dialogues.",
+      "sentiment": "Negative"
+    },
+    {
+      "id": "13c9",
+      "review": "It was neither too good nor too bad.",
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "14d2",
+      "review": "Some scenes were interesting, others felt unnecessary.",
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "15e5",
+      "review": "Decent watch, but nothing extraordinary.",
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "16a3",
+      "review": "Acting was okay, but the story lacked depth.",
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "17b4",
+      "review": "I don't have a strong opinion about this movie.",
+      "sentiment": "Neutral"
     }
   ]
 }
